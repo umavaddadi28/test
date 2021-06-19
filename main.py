@@ -4,8 +4,9 @@ if __name__ == '__main__':
     """
     Description:
     This script contains addition , multiplication , division of different numbers
-    Author : Uma
+    Author : Uma Vaddadi
     Lead : Santosh
+    CI/CD : This project is automated through Jenkins
     """
     # addition of two numbers
     a = 3
